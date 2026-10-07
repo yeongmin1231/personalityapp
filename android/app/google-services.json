@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "711367223536",
+    "firebase_url": "https://personalitytest1-b1704-default-rtdb.firebaseio.com",
+    "project_id": "personalitytest1-b1704",
+    "storage_bucket": "personalitytest1-b1704.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711367223536:android:9e684ac93e67df6430fa35",
+        "android_client_info": {
+          "package_name": "com.example.firstflutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBmLM3zsdHP77IHPSLDmnfpNBZ11g0pxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711367223536:android:805f4f2a0808149030fa35",
+        "android_client_info": {
+          "package_name": "com.example.personality_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBmLM3zsdHP77IHPSLDmnfpNBZ11g0pxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
